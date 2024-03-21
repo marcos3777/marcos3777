@@ -5,11 +5,11 @@
 
 - 🔭 I'm currently working as an **IT support analyst.**
 
-- 🌱 I’m currently learning **C# and Unity.**
+- 🌱 I’m currently learning **analysis and systems development at FIAP**
 
 - 🤝 I’m looking for help with **ideas for studying.**
 
-- 💬 Ask me about **Unity, C# and IT support.**
+- 💬 Ask me about **Unity, C#, Python, Java and IT support.**
 
 - 📫 How to reach me **marcos_vinicius_11@hotmail.com**
 
