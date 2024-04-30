@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marcos Oliveira</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos3777)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">An IT support analyst passionate about game development from Brazil.</h3>
 
 - 🔭 I'm currently working as an **IT support analyst.**
